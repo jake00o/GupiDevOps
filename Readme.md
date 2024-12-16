@@ -2,6 +2,7 @@
 # Guppi Di Dhui - Back Pain Relief
 
 A modern, single-page web application designed to help individuals find relief from back pain through posture correction, therapeutic exercises, and specialized consultations. This repository demonstrates core HTML, CSS, and JavaScript functionality, along with automated testing (using Python + Selenium) and a basic CI/CD pipeline configuration.
+Live Preview: https://jake00o.github.io/Gupi.github.io/
 
 ---
 
